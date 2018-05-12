@@ -1,0 +1,35 @@
+_repo: Barbarossa--An-Historical-Novel-of-the-XII-Century._33487
+_version: 0.1.0
+alternative_title:
+- Barbarossa; An Historical Novel of the 12th Century.
+- Barbarossa; An Historical Novel of the Twelfth Century.
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bolanden, Conrad von
+    aliases:
+    - Bischoff, Josef Eduard Konrad
+    - Bolanden, Konrad von
+    - Von Bolanden, Conrad
+    birthdate: 1828
+    deathdate: 1920
+    gutenberg_agent_id: '36436'
+    url: http://www.gutenberg.org/2009/agents/36436
+    wikipedia: http://en.wikipedia.org/wiki/Conrad_von_Bolanden
+description: ''
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33487'
+  lccn: '06011714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Germany -- History -- Frederick I, 1152-1190 -- Fiction'
+title: Barbarossa; An Historical Novel of the XII Century.
+url: http://www.gutenberg.org/ebooks/33487
